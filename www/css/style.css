@@ -1,0 +1,74 @@
+
+.Holder
+{
+	margin:auto;
+	width:400px;
+}
+
+.topTitle
+{
+	background-color: #8cb3f2;
+	font-weight: bold;
+	padding:10px;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    font-size:20px;
+}
+
+.Title
+{
+	background-color: #8cb3f2;
+	font-weight: bold;
+	padding:5px 0px;
+    text-align: center;
+    font-size:20px;
+}
+
+.StatusBar
+{
+	height:20px;
+	background-color: #8cb3f2;
+	font-weight: bold;
+	padding:10px;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    font-size:15px;
+}
+
+.ColorPicker
+{
+	border-left: 1px solid #8cb3f2;
+	border-right: 1px solid #8cb3f2;
+
+	padding: 10px 10px;
+	text-align: center;
+}
+
+.ColorPicker label
+{
+	margin: 0px 10px;
+}
+
+
+.Speed
+{
+	border-left: 1px solid #8cb3f2;
+	border-right: 1px solid #8cb3f2;
+	text-align: center;
+	padding: 10px 0px;
+}
+
+.Speed label
+{
+	margin: 0px 10px;
+}
+
+.Speed div
+{
+	display:inline-block;
+}
+
+.NumberInput
+{
+	width:80px;
+}
